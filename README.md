@@ -1,4 +1,4 @@
-# Movie Recommender App
+# Movie Recommendation System
 
 Welcome to the Movie Recommender App! This Python-based application utilizes content-based filtering techniques to provide personalized movie recommendations based on user preferences. This README file will guide you through the installation and usage of the application.
 
