@@ -64,4 +64,4 @@ Please note that this application is provided as-is, and the developers are not 
 
 ---
 
-Thank you for using the Movie Recommender App! If you have any questions or suggestions, please feel free to reach out to us at debanilbh@gmail.com.
+Thank you for using the Movie Recommender App! If you have any questions or suggestions, please feel free to reach out to us at simantaraj45@gmail.com.
